@@ -16,6 +16,6 @@
         
  Tested RESTful API for each CRUD operation using curl : 
         
-        ![image](https://user-images.githubusercontent.com/62217874/143898287-4059dea8-3b06-465c-a9e5-86c0a30acbfe.png)
+        ![img](https://github.com/RonWonWon/SpringPractice/blob/main/Screenshot%202021-11-29%20212628.jpg)
 
        
